@@ -1,0 +1,17 @@
+{
+  "name": "practicando-back-end",
+  "version": "0.0.1",
+  "description": "nuevo servidor practicando-back-end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "fedecarrizo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
